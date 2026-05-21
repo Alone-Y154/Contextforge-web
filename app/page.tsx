@@ -84,7 +84,7 @@ export default function HomePage() {
                   style={{ animation: "pulse-soft 2.2s ease-in-out infinite" }}
                   aria-hidden="true"
                 />
-                <span className="text-xs text-accent font-medium">v0.1.0 · Now on npm</span>
+                <span className="text-xs text-accent font-medium">v0.1.10 · Now on npm</span>
               </div>
 
               <p className="stagger-1 label-caps mb-4 text-accent">
