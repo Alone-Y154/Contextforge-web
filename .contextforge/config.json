@@ -1,0 +1,62 @@
+{
+  "version": "0.1.0",
+  "registry": "https://registry.contextforge.org/index.json",
+  "tools": [
+    "claude"
+  ],
+  "installedPacks": [
+    "verification-before-completion",
+    "systematic-debugging",
+    "code-review",
+    "git-workflow",
+    "dependency-management",
+    "diataxis-docs",
+    "nextjs-best-practices",
+    "react-performance",
+    "react-composition",
+    "shadcn-ui",
+    "tailwind-v4",
+    "ui-ux-design",
+    "frontend-aesthetics",
+    "typescript-advanced-types"
+  ],
+  "defaultCorePacks": [
+    "verification-before-completion",
+    "systematic-debugging",
+    "code-review",
+    "git-workflow",
+    "dependency-management",
+    "diataxis-docs"
+  ],
+  "generatedFiles": [
+    ".contextforge/agents/claude/verification-before-completion.md",
+    ".contextforge/skills/verification-before-completion/SKILL.md",
+    ".contextforge/agents/claude/systematic-debugging.md",
+    ".contextforge/skills/systematic-debugging/SKILL.md",
+    ".contextforge/agents/claude/code-review.md",
+    ".contextforge/skills/code-review/SKILL.md",
+    ".contextforge/agents/claude/git-workflow.md",
+    ".contextforge/skills/git-workflow/SKILL.md",
+    ".contextforge/agents/claude/dependency-management.md",
+    ".contextforge/skills/dependency-management/SKILL.md",
+    ".contextforge/agents/claude/diataxis-docs.md",
+    ".contextforge/skills/diataxis-docs/SKILL.md",
+    ".contextforge/agents/claude/nextjs-best-practices.md",
+    ".contextforge/skills/nextjs-best-practices/SKILL.md",
+    ".contextforge/agents/claude/react-performance.md",
+    ".contextforge/skills/react-performance/SKILL.md",
+    ".contextforge/agents/claude/react-composition.md",
+    ".contextforge/skills/react-composition/SKILL.md",
+    ".contextforge/agents/claude/shadcn-ui.md",
+    ".contextforge/skills/shadcn-ui/SKILL.md",
+    ".contextforge/agents/claude/tailwind-v4.md",
+    ".contextforge/skills/tailwind-v4/SKILL.md",
+    ".contextforge/agents/claude/ui-ux-design.md",
+    ".contextforge/skills/ui-ux-design/SKILL.md",
+    ".contextforge/agents/claude/frontend-aesthetics.md",
+    ".contextforge/skills/frontend-aesthetics/SKILL.md",
+    ".contextforge/agents/claude/typescript-advanced-types.md",
+    ".contextforge/skills/typescript-advanced-types/SKILL.md",
+    "CLAUDE.md"
+  ]
+}
